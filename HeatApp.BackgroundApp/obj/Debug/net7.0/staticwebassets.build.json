@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AobCZngfW0VUqv64sIYJ3Q03GZI1iTmsx93n2a6dNJE=",
+  "Source": "HeatApp.BackgroundApp",
+  "BasePath": "_content/HeatApp.BackgroundApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

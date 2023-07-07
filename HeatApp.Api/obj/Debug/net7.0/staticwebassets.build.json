@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E+6sIzX+9Ho9KIg3yUtHbAHtKXRt4Bw4znOfF0krlqc=",
+  "Source": "HeatApp.Api",
+  "BasePath": "_content/HeatApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

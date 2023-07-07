@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "xhU/aXtlpCa+cnDUevhmWB9bJdRWbFHNFUZZy0uhyYc=",
+  "Source": "HeatApp.GrpcService",
+  "BasePath": "_content/HeatApp.GrpcService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.BackgroundApp/HeatApp.BackgroundApp.csproj",
+      "Version": 2,
+      "Source": "HeatApp.BackgroundApp",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

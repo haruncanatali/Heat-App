@@ -1,0 +1,2 @@
+obj/Debug/net7.0/Protos/Heat.cs \
+obj/Debug/net7.0/Protos/HeatGrpc.cs: Protos/heat.proto

@@ -1,0 +1,12 @@
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/bin/Debug/net7.0/HeatApp.Domain.deps.json
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/bin/Debug/net7.0/HeatApp.Domain.dll
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/bin/Debug/net7.0/HeatApp.Domain.pdb
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.csproj.AssemblyReference.cache
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.AssemblyInfoInputs.cache
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.AssemblyInfo.cs
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.csproj.CoreCompileInputs.cache
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.dll
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/refint/HeatApp.Domain.dll
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/HeatApp.Domain.pdb
+/Users/haruncanatali/Desktop/Projects/HeatApp/HeatApp.Domain/obj/Debug/net7.0/ref/HeatApp.Domain.dll

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.Domain", "HeatApp.Domain\HeatApp.Domain.csproj", "{F7226700-E1DE-438A-820D-040BC4518CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.Application", "HeatApp.Application\HeatApp.Application.csproj", "{7F1018F8-40DC-48A6-82CF-6A6DF9BDEFD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.Persistence", "HeatApp.Persistence\HeatApp.Persistence.csproj", "{2CFD9DFF-623B-410C-B43C-41EDBBD6A899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.BackgroundApp", "HeatApp.BackgroundApp\HeatApp.BackgroundApp.csproj", "{3E94D6FF-8064-4557-B390-91CCF71CD9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.GrpcService", "HeatApp.GrpcService\HeatApp.GrpcService.csproj", "{FC7E1857-3D1B-4405-8123-2D8068CE239D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.GrpcTryClient", "HeatApp.GrpcTryClient\HeatApp.GrpcTryClient.csproj", "{29D678E6-02E7-418B-8ED6-3F94C58DA8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatApp.Api", "HeatApp.Api\HeatApp.Api.csproj", "{0A96D70D-1152-49BC-8A27-849E100473EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7226700-E1DE-438A-820D-040BC4518CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7226700-E1DE-438A-820D-040BC4518CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7226700-E1DE-438A-820D-040BC4518CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7226700-E1DE-438A-820D-040BC4518CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1018F8-40DC-48A6-82CF-6A6DF9BDEFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1018F8-40DC-48A6-82CF-6A6DF9BDEFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1018F8-40DC-48A6-82CF-6A6DF9BDEFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1018F8-40DC-48A6-82CF-6A6DF9BDEFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFD9DFF-623B-410C-B43C-41EDBBD6A899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFD9DFF-623B-410C-B43C-41EDBBD6A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFD9DFF-623B-410C-B43C-41EDBBD6A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFD9DFF-623B-410C-B43C-41EDBBD6A899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E94D6FF-8064-4557-B390-91CCF71CD9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E94D6FF-8064-4557-B390-91CCF71CD9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E94D6FF-8064-4557-B390-91CCF71CD9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E94D6FF-8064-4557-B390-91CCF71CD9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7E1857-3D1B-4405-8123-2D8068CE239D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7E1857-3D1B-4405-8123-2D8068CE239D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7E1857-3D1B-4405-8123-2D8068CE239D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7E1857-3D1B-4405-8123-2D8068CE239D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D678E6-02E7-418B-8ED6-3F94C58DA8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D678E6-02E7-418B-8ED6-3F94C58DA8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D678E6-02E7-418B-8ED6-3F94C58DA8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D678E6-02E7-418B-8ED6-3F94C58DA8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A96D70D-1152-49BC-8A27-849E100473EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A96D70D-1152-49BC-8A27-849E100473EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A96D70D-1152-49BC-8A27-849E100473EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A96D70D-1152-49BC-8A27-849E100473EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

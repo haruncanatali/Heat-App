@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "HeatApp.GrpcService";
+
+package heat;
+
+service TemperatureReceiver {
+    rpc SendTemperature (TemperatureRequest) returns (TemperatureReply);
+}
+
+message TemperatureRequest {
+    string device = 1;
+    double temperature = 2;
+}
+
+message TemperatureReply {
+    bool result = 1;
+}
